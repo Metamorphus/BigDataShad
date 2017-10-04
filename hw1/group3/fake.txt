@@ -1,0 +1,150 @@
+Australia       22
+Cambodia        1
+Cote D'ivoire   1
+Israel  58
+Algeria 4
+Costa Rica      2
+Moldov  28
+Monaco  1
+New Zealand     8
+Philippines     5
+Slovenia        63
+Fiji    1
+Hungary 47
+Slovakia        41
+Bangladesh      1
+Belgium 142
+Italy   211
+Switzerland     258
+Tanzani 3
+Togo    1
+United Arab Emirates    24
+Afghanistan     2
+Indonesia       3
+Jordan  7
+Singapore       24
+Bosnia and Herzegovina  17
+Malta   12
+Myanmar 1
+Japan   34
+Lesotho 1
+Luxembourg      36
+Paraguay        1
+Taiwa   2
+Argentina       8
+Bahamas 1
+Holy See        1
+Ireland 81
+Seychelles      2
+Thailand        2
+Comoros 1
+Gibraltar       8
+Kazakhstan      33
+Venezuel        3
+Virgin Island   2
+Czech Republic  138
+Lithuania       32
+Spain   202
+Aland Islands   2
+Poland  420
+Turks and Caicos Islands        1
+Yemen   4
+Belize  3
+Croatia 16
+Faroe Islands   1
+Mauritius       1
+Nicaragua       1
+Oman    1
+Brazil  59
+Honduras        2
+San Marino      3
+Sweden  317
+Greece  45
+Libya   1
+South Africa    6
+Canada  42
+Dominican Republic      2
+Isle of Man     3
+Turkey  85
+United Kingdom  806
+Latvia  44
+Rwanda  1
+Sudan   2
+Tunisia 6
+Montenegro      9
+Morocco 1
+Netherlands     514
+Palestin        16
+Russian Federation      1180
+Mali    1
+Nigeria 4
+Samoa   1
+Cameroon        1
+Kyrgyzstan      8
+Anguilla        1
+Azerbaijan      9
+Germany 998
+Ghana   2
+Guadeloupe      9
+Martinique      1
+Zimbabwe        1
+Guernsey        4
+Syrian Arab Republic    11
+Uzbekistan      8
+Zambia  1
+Austria 173
+Lebanon 17
+Mexico  3
+Romania 175
+Cyprus  16
+Finland 94
+Iceland 23
+Mozambique      1
+Puerto Rico     4
+Bulgaria        84
+China   13
+India   12
+Kore    6
+Swaziland       1
+Belarus 16
+Ira     71
+Panama  4
+Peru    6
+Tajikistan      4
+Iraq    29
+Liechtenstein   4
+Sri Lanka       1
+Denmark 117
+Djibouti        1
+Guam    1
+Serbia  43
+Egypt   8
+France  430
+Malawi  1
+Malaysia        4
+Turkmenistan    1
+Ukraine 427
+Albania 10
+Colombia        3
+Kenya   7
+Macedoni        12
+Reunion 15
+Uganda  1
+Viet Nam        3
+Armenia 19
+Bahrain 4
+Bolivi  1
+Cayman Islands  1
+Chile   6
+Ecuador 2
+Estonia 21
+Hong Kong       16
+Georgia 7
+Lao People's Democratic Republic        1
+Norway  134
+Portugal        45
+Saudi Arabia    34
+French Guiana   1
+Kuwait  11
+Sierra Leone    2
+United States   351

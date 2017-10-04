@@ -1,0 +1,5 @@
+15	0	Russian Federation
+15	1
+15	1
+16	0	Ukraine
+16	1
