@@ -39,8 +39,8 @@ def api_hw1():
         total_users = int(random.normalvariate(100, 5))
 
         result[date.strftime("%Y-%m-%d")] = {
-            "total_hits": total_hits,
-            "total_users": total_users,
+            "total_hits": 26760238,
+            "total_users": 2461923,
             "average_session_time": 300.0,
             "average_session_length": 5.0,
             "users_by_country": {
