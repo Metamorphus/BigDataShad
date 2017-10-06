@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+from __future__ import print_function
 import argparse
 import datetime
 import getpass
@@ -37,6 +37,7 @@ def api_hw1():
     for date in iterate_between_dates(start_date, end_date):
         total_hits, total_users = 10, 10
         try:
+            print('/home/imorozov/res/hw1/group1/%s' % (date.strftime("%Y-%m-%d"),))
             total_hits, total_users = open('/home/imorozov/res/hw1/group1/%s' 
                 % (date.strftime("%Y-%m-%d"),)).read().strip().split('\t')
         except:
