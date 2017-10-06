@@ -37,8 +37,8 @@ def api_hw1():
     for date in iterate_between_dates(start_date, end_date):
         total_hits, total_users = 10, 10
         try:
-            total_hits, total_users = open('/home/imorozov/res/hw1/group1/%s.txt' 
-                % (date.strftime("%Y-%m-%d"),)).read().strip().split('\t')
+            total_hits, total_users = map(int, open('/home/imorozov/res/hw1/group1/%s.txt' 
+                % (date.strftime("%Y-%m-%d"),)).read().strip().split('\t'))
         except:
             pass
 
