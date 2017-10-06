@@ -35,12 +35,16 @@ def api_hw1():
 
     result = {}
     for date in iterate_between_dates(start_date, end_date):
-        total_hits = int(random.normalvariate(1000, 50))
-        total_users = int(random.normalvariate(100, 5))
+        total_hits, total_users = 10, 10
+        try:
+            total_hits, total_users = open('/home/imorozov/res/hw1/group1/%s' 
+                % (date.strftime("%Y-%m-%d"),)).read().strip().split('\t')
+        except:
+            pass
 
         result[date.strftime("%Y-%m-%d")] = {
-            "total_hits": 26760238,
-            "total_users": 2461923,
+            "total_hits": total_hits,
+            "total_users": total_users,
             "average_session_time": 300.0,
             "average_session_length": 5.0,
             "users_by_country": {
