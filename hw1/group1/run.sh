@@ -1,4 +1,6 @@
 #!/bin/bash
+
+rm -rf /user/imorozov/res/hw1/group1/$1-temp
 yarn jar /opt/hadoop/hadoop-streaming.jar \
 -files mapper1.py,reducer1.py \
 -mapper "mapper1.py" \
@@ -7,6 +9,7 @@ yarn jar /opt/hadoop/hadoop-streaming.jar \
 -output /user/imorozov/res/hw1/group1/$1-temp \
 -numReduceTasks 10
 
+rm -rf /user/imorozov/res/hw1/group1/$1-res
 yarn jar /opt/hadoop/hadoop-streaming.jar \
 -files mapper2.py,reducer2.py \
 -mapper "mapper2.py" \
